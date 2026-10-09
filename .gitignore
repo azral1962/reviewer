@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+cases/local/*
+!cases/local/.gitkeep
+assessment-private/
+*.zip
+.DS_Store

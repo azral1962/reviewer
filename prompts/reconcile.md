@@ -1,0 +1,3 @@
+# Reconcile a TISE cycle
+
+Read all cycle records and the starting Master. Produce `update-proposal.md`: findings, individual insights, collective constraints, evidence, proposed edits, dissent and unresolved items. Draft a decision record without impersonating the human. Ask for a decision only where authorization is missing. After the human disposition is available, record it in `decision.md`, adopt only authorized edits, bump Master patch version, update CHANGELOG and latest_cycle, and record master_after and status=closed in the manifest. A no-content-change cycle still updates the scholarly record and version. Never erase failed approaches or rejected proposals from the cycle record.

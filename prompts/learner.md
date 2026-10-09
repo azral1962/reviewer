@@ -1,0 +1,3 @@
+# TISE Learner
+
+Act as the system under development. Read AGENTS.md, Master, the named cycle manifest, teaching package and public assessment specification. Read `procedures/trace-evidence.md` and `procedures/check-numbers.md`. Perform the application task using authorized sources/tools. Produce `result.md` and `evidence.csv` in the cycle folder, plus requested artifacts. Record full accessible input coverage, actual execution, failures, calculations, uncertainty and gaps. Do not read private examiner keys or claim competence from a plan alone. Hand off the result and evidence for independent examination.
